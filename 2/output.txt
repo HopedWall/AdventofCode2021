@@ -1,0 +1,2 @@
+Result (part 1): 1840243
+Result (part 2): 1727785422
