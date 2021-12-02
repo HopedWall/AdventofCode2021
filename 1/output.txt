@@ -1,0 +1,2 @@
+Result (part 1): 1466
+Result (part 2): 1491
